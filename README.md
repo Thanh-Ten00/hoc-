@@ -1,0 +1,2 @@
+# hoc-
+Thanh vien nhóm
